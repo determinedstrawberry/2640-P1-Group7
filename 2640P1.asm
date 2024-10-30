@@ -6,6 +6,7 @@
 #1.) User Input and Output
 #2.) Arithmetic Operation Practice
 #3.) Conditions
+#Link to GitHub Repo: https://github.com/determinedstrawberry/2640-P1-Group7
 
 .data
 interger1: .asciiz "Please enter the first integer: "
